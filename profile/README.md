@@ -4,6 +4,17 @@ Welcome to **NetKnights**, a community-driven cybersecurity club for curious min
 
 > "Protect the net. Educate the future. Knight the nerds."
 
+> [!IMPORTANT]
+> **We're Not *That* NetKnights**  
+> This organization is in no way affiliated with NetKnights GmbH, the German IT security company.  
+> We are a community-driven, youth-led cybersecurity club hosted at a public library.  
+> Our activities include learning ethical hacking, hosting mini CTFs, geeking out about Linux,  
+> and occasionally yelling at broken scripts.  
+>  
+> If you're looking for professional services... uh, not us. But if you want to learn, tinker, or cause  
+> harmless chaos in virtual machines — welcome aboard!
+
+
 ---
 
 ## ⚔️ About Us
