@@ -48,7 +48,7 @@ More coming soon — or whenever we stop procrastinating.
 ## 🧠 Join the Knights
 
 Interested in joining? Check out:
-- The website: [NetKnightsClub.org](https://netknightsclub.github.io/NetKnights-Website/) (btw we dont own a domain name yet)
+- The website: [NetKnights.org](https://netknights.org/) 
 - The repo for the website: [NetKnights-Website Repo](https://github.com/NetKnightsClub/NetKnights-Website/tree/main)
 - Our upcoming learning modules and zine: [Soon™]
 
